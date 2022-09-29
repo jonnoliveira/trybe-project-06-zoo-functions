@@ -1,8 +1,8 @@
 const data = require('../data/zoo_data');
 
 function isManager(id) {
-  const a = data.employees.some((employee) => employee.managers.some((ids) => ids === id));
-  return a;
+// TESTA SE ALGUM (SOME) EMPREGADO É GERENCIADO PELA PESSOA DO ID ENCONTRADO (FIND);
+  return data.employees.some((employee) => employee.managers.find((ids) => ids === id));
 }
 
 function getRelatedEmployees(managerId) {
