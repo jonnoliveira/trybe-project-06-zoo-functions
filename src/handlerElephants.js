@@ -26,11 +26,13 @@ const handlerElephants = (param) => {
   if (typeof param !== 'string') {
     return 'Parâmetro inválido, é necessário uma string';
   }
-  const elephants = getElephants();
+  const elephants = getElephants(); // RETORNA ELEPHANTS
   if (Object.keys(elephants).includes(param)) {
     return elephants[param];
   }
   return computeData(param, elephants);
 };
+
+console.log(handlerElephants('lindo'));
 
 module.exports = handlerElephants;
