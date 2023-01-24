@@ -74,7 +74,7 @@ Simulei um sistema de reporte de um zool√≥gico desenvolvendo um conjunto de fun√
 
 ## 100% :heavy_check_mark:
 
-![Project-Zoo-Functions-Grade]()
+![Project-Zoo-Functions-Grade](https://github.com/jonnoliveira/trybe-project-06-zoo-functions/blob/main/image/Zoo-functions-Grade.png)
 
 </details> 
  
