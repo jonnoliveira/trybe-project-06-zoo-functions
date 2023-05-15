@@ -2,6 +2,14 @@
 
 ## Esse projeto pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/) :green_heart:
 
+### Stacks utilizadas no desenvolvimento:
+<div style="display: inline_block"><br>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Shield" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Shield" />
+</div>
+
+#
+ 
 <details>
  
 <summary>
