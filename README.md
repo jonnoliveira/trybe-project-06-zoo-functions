@@ -32,41 +32,41 @@ Simulei um sistema de reporte de um zoológico desenvolvendo um conjunto de fun�
 
 </summary>
 
-### I. Implemente a função getSpeciesByIds.
+* I. Implemente a função getSpeciesByIds.
 
-### II. Implemente a função getAnimalsOlderThan.
+* II. Implemente a função getAnimalsOlderThan.
 
-### III. Implemente a função getEmployeeByName.
+* III. Implemente a função getEmployeeByName.
 
-### IV. Implemente a função getRelatedEmployees.
+* IV. Implemente a função getRelatedEmployees.
 
-### V. Implemente a função countAnimals.
+* V. Implemente a função countAnimals.
 
-### VI. Obtenha ao menos 80% de cobertura de testes na função handlerElephants.
+* VI. Obtenha ao menos 80% de cobertura de testes na função handlerElephants.
 
-### VII. Obtenha ao menos 90% de cobertura de testes na função handlerElephants.
+* VII. Obtenha ao menos 90% de cobertura de testes na função handlerElephants.
 
-### VIII. Implemente a função calculateEntry.
+* VIII. Implemente a função calculateEntry.
 
-### IX. Implemente a função getSchedule.
+* IX. Implemente a função getSchedule.
 
-### X. Implemente a função getOldestFromFirstSpecies.
+* X. Implemente a função getOldestFromFirstSpecies.
 
-### XI. Implemente a função getEmployeesCoverage.
+* XI. Implemente a função getEmployeesCoverage.
 
-### XII. Obtenha ao menos 85% de cobertura de testes na função getOpeningHours.
+* XII. Obtenha ao menos 85% de cobertura de testes na função getOpeningHours.
 
-### XIII. Obtenha ao menos 95% de cobertura de testes na função getOpeningHours.
+* XIII. Obtenha ao menos 95% de cobertura de testes na função getOpeningHours.
 
-### XIV. Implemente a função getAnimalMap.
+* XIV. Implemente a função getAnimalMap.
 
 ---
  
 ## Requisitos Bônus
 
-### XV. Obtenha 100% de cobertura de testes na função handlerElephants.
+* XV. Obtenha 100% de cobertura de testes na função handlerElephants.
 
-### XVI. Obtenha ao menos 100% de cobertura de testes na função getOpeningHours.
+* XVI. Obtenha ao menos 100% de cobertura de testes na função getOpeningHours.
 
 </details>
 
